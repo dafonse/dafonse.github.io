@@ -40,7 +40,6 @@ improve_content: https://github.com/dafonse/feeling-responsive/edit/gh-pages
 #
 urlimg: 'https://dafonse.github.io/feeling-responsive/images/'
 
-
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
@@ -49,7 +48,6 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -60,7 +58,6 @@ plugins:
 #
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
-
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
@@ -78,10 +75,8 @@ exclude:
     - INSTALL.md
     - vendor
 
-
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
-
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
@@ -92,7 +87,6 @@ compress_html:
   profile: false
   ignore:
     envs: [development]
-
 
 #
 #       ____       ____            ____
@@ -123,8 +117,6 @@ defaults:
       comments: false
       author: phlow     # Default author for posts
 
-
-
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
 #     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
@@ -134,8 +126,6 @@ defaults:
 #
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
-
-
 
 #     _____ __________
 #    / ___// ____/ __ \
@@ -148,8 +138,6 @@ google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
-
-
 
 #       ______            _
 #      / ____/___ __   __(_)________  ____  _____
@@ -171,7 +159,6 @@ apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
-
 #       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
@@ -181,7 +168,6 @@ msapplication_tilecolor:                '#fabb00'
 og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
 og_locale:                          'en_EN'
 og_type:                            'website'
-
 
 #      _____            _       __   __  ___         ___
 #     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
@@ -196,7 +182,6 @@ socialmedia:
     twitter: phlow
     facebook: phlow.media
 
-
 #        ____  _
 #       / __ \(_)________ ___  _______
 #      / / / / / ___/ __ `/ / / / ___/
@@ -207,7 +192,6 @@ socialmedia:
 # used in _includes/comments
 
 disqus_shortname: feelingresponsive
-
 
 #      _____
 #     / ___/____ ___________
@@ -232,8 +216,6 @@ sass:
 
 # google_analytics_tracking_id:
 
-
-
 #   _                 _     _
 #  | |_ __ ___      _| | __| |_ ___
 #  | __/ _` \ \ /\ / / |/ /| __/ _ \
@@ -248,7 +230,6 @@ sass:
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
-
 
 #     ___              _     __           __
 #    /   |  __________(_)___/ /___  _____/ /_____  _____
