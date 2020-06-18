@@ -5,6 +5,9 @@
 - title: Getting Started
   url: "/getting-started/"
   side: left
+  dropdown:
+  - title: "Um teste novo"
+    url: "/novo/"
 
 - title: "Templates"
   url: "/design/"
