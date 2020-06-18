@@ -8,6 +8,9 @@
   dropdown:
   - title: "Um teste novo"
     url: "/novo/"
+    dropdown:
+    - title: "Dois testes"
+      url: "/novo2/"
 
 - title: "Templates"
   url: "/design/"
