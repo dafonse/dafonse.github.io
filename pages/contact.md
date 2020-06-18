@@ -8,5 +8,10 @@ permalink: "/contact/"
 ---
 If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+\( 1/x^{2} \)
+
+\[ \frac{1}{n^{2}} \]
+
+Extras include other integrations that aren't relevant to style or customization, but can further enhance your documentation pages. Currently, we have support for adding interactive quizzes.
 
  [1]: http://www.wufoo.com/
