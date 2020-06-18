@@ -12,5 +12,6 @@ If you need a fabulous contact form for your website, I suggest you use [Wufoo][
 
 \\[ \frac{1}{n^{2}} \\]
 
+ # and if you get more than 100 entries you have to pay.
 
  [1]: http://www.wufoo.com/
